@@ -69,7 +69,7 @@
         ["xpath=//section[@id='app-content-wrapper']/div[4]/section/section/div/aside/div[2]/div/form/div/input", "xpath:idRelative"],
         ["xpath=//aside/div[2]/div/form/div/input", "xpath:position"]
       ],
-      "value": "comenow@mailinator.com"
+      "value": "dummy email"
     }, {
       "id": "15ccfffc-500e-4188-9a03-e082a1867059",
       "comment": "",
@@ -97,7 +97,7 @@
         ["xpath=//section[@id='app-content-wrapper']/div[4]/section/section/div/aside/div[2]/div/form/div[2]/input", "xpath:idRelative"],
         ["xpath=//div[2]/input", "xpath:position"]
       ],
-      "value": "Chocolate@1!"
+      "value": "Dummy password"
     }, {
       "id": "6113439c-3321-4406-ae26-3a0b1103792a",
       "comment": "",
